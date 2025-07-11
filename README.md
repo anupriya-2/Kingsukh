@@ -9,9 +9,7 @@ Welcome to the Kingsukh Guest House website repository. This project is a fully 
 - Technologies Used
 - Setup
 - Usage
-- Contact
-- License
-- Live Site
+
 
 ## Introduction
 
@@ -36,33 +34,12 @@ This website is designed to provide a seamless and engaging experience for visit
 
 ## Setup
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/kingsukh-guest-house.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd kingsukh-guest-house
-    ```
-3. Open `index.html` in your preferred web browser to view the website.
+
+1. Open `index.html` in your preferred web browser to view the website.
 
 ## Usage
 
 Feel free to customize the content and styles to match your preferences. You can update the images, text, and other elements as needed.
 
-## Contact
 
-For any inquiries or support, please contact us at:
-- **Address**: beside Barshal Water Tank, Manpur, Barhanti, West Bengal 723156
-- **Phone**: 09007062180
-- **Email**: your-email@example.com
 
-Follow us on social media:
-- Instagram
-- YouTube
-- WhatsApp
-- LinkedIn
-
-## Live Site
-
-https://notyourtype-github.github.io/kingsukhguesthouse/
