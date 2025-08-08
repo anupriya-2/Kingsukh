@@ -29,17 +29,10 @@ This website is designed to provide a seamless and engaging experience for visit
 
 - HTML
 - CSS
-- Bootstrap
 - Font Awesome (for social media icons)
 
-## Setup
 
 
-1. Open `index.html` in your preferred web browser to view the website.
-
-## Usage
-
-Feel free to customize the content and styles to match your preferences. You can update the images, text, and other elements as needed.
 
 
 
